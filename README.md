@@ -73,7 +73,7 @@ Smart-Campus-AI/
 │   ├── csp/               # Constraint satisfaction (scheduling/resources)
 │── response/              # Combines outputs and generates final response
 └── main.py                # Entry point of the application
-
+```
 ## ▶️ How to Run
 ```bash
 git clone https://github.com/zeynabsheikh/Smart-Campus-AI-Decision-Support-and-Automation-System.git
