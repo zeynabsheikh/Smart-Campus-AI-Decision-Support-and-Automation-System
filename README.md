@@ -87,5 +87,5 @@ python main.py
 - Advanced AI models for better prediction
 - Real-time notifications and alerts
 
-Author
+## Author
 Zainab Noor
