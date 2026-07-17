@@ -82,10 +82,10 @@ pip install -r requirements.txt
 python main.py
 ```
 📈 Future Improvements
-Integration with real campus data
-Mobile application support
-Advanced AI models for better prediction
-Real-time notifications and alerts
+- Integration with real campus data
+- Mobile application support
+- Advanced AI models for better prediction
+- Real-time notifications and alerts
 
 Author
 Zainab Noor
