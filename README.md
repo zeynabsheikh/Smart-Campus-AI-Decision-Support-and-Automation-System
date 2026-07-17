@@ -62,18 +62,17 @@ The system acts as a **centralized smart service desk** for students, instructor
 ---
 
 ## 📂 Project Structure
-Smart-Campus-AI/
-│── preprocessing/
-│── router/
+**Smart-Campus-AI/
+│── preprocessing/        # Handles input cleaning and validation
+│── router/               # Routes requests to appropriate modules
 │── modules/
-│ ├── search/
-│ ├── ann/
-│ ├── logic_kb/
-│ ├── csp/
-│── response/
-│── main.py
-
-
+│   ├── search/           # Pathfinding and navigation logic
+│   ├── ann/              # Neural network for request classification
+│   ├── logic_kb/         # Rule-based reasoning and eligibility checks
+│   ├── csp/              # Constraint satisfaction (scheduling/resources)
+│── response/             # Combines outputs and generates final response
+│── main.py               # Entry point of the application
+**
 ---
 
 ## ▶️ How to Run
@@ -82,7 +81,7 @@ git clone https://github.com/zeynabsheikh/Smart-Campus-AI-Decision-Support-and-A
 cd Smart-Campus-AI-Decision-Support-and-Automation-System
 pip install -r requirements.txt
 python main.py
-
+```
 📈 Future Improvements
 Integration with real campus data
 Mobile application support
